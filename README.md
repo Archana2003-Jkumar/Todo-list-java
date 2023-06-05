@@ -173,6 +173,5 @@ font-size: 80px;
   }
 ```
 ## Output:
-![image](https://github.com/Archana2003-Jkumar/Todo-list-java/assets/93427594/a837bdb6-a404-4212-b981-28a14e96baea)
-## Result:
+![image](https://github.com/Archana2003-Jkumar/Todo-list-java/assets/93427594/6b6c1f63-88b6-42f1-8c4d-3cfe8d21d839)## Result:
 Hence the program has been successfully completed.
